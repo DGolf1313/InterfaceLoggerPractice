@@ -1,0 +1,4 @@
+INFO: Thu May 26 16:08:34 CDT 2022 - Hello:
+WARNING: Thu May 26 16:08:34 CDT 2022 - this is a warning
+ERROR: Thu May 26 16:08:34 CDT 2022 - Opps error
+FATAL!!! Thu May 26 16:08:34 CDT 2022 - This is FATAL
